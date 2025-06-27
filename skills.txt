@@ -1,0 +1,125 @@
+# --- Programming Languages ---
+Python
+Java
+C#
+C++
+JavaScript
+TypeScript
+Go Programming
+Ruby
+Kotlin
+Swift
+
+# --- Web Frameworks & Frontend ---
+Django
+Flask
+Spring Boot
+React
+Angular
+Vue.js
+Next.js
+Node.js
+Express.js
+HTML
+CSS
+Bootstrap
+Tailwind
+
+# --- Databases ---
+SQL
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Redis
+Oracle
+Firebase
+
+# --- DevOps & Cloud ---
+AWS
+Azure
+GCP
+Docker
+Kubernetes
+CI/CD
+Jenkins
+GitHub Actions
+Terraform
+
+# --- APIs & Backend Architecture ---
+REST API
+GraphQL
+gRPC
+Microservices
+Kafka
+RabbitMQ
+
+# --- AI / Machine Learning ---
+Machine Learning
+Deep Learning
+NLP
+Computer Vision
+PyTorch
+TensorFlow
+Keras
+Scikit-learn
+OpenCV
+Transformers
+Hugging Face
+XGBoost
+LightGBM
+LangChain
+YOLO
+BERT
+LSTM
+GAN
+AutoML
+
+# --- Data Analysis & Engineering ---
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Power BI
+Tableau
+Excel
+Big Data
+Hadoop
+Spark
+ETL
+Snowflake
+Airflow
+
+# --- Testing Tools ---
+Unit Testing
+Integration Testing
+Selenium
+PyTest
+JUnit
+TestNG
+Mocha
+Chai
+Postman
+Cypress
+Playwright
+
+# --- Tools & Version Control ---
+Git
+GitHub
+GitLab
+Bitbucket
+JIRA
+Confluence
+
+# --- OS & Platforms ---
+Linux
+Ubuntu
+Windows
+MacOS
+
+# --- Methodologies & Concepts ---
+Agile
+Scrum
+SDLC
+TDD
+OOP
